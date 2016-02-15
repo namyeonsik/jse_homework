@@ -22,7 +22,6 @@ public class MonthEndDay {
 		case 2: System.out.println("29일");break;
 
 		default:System.out.println("잘못 입력됨.");break;
-		}
-		
+		}		
 	}
 }
